@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d00506c1ac8a3954bbe7b0bc68084790, type: 3}
+  m_Name: Wind Scythe
+  m_EditorClassIdentifier: 
+  type: Sky
+  name: Wind Scythe
+  description: You fire slashing scythe of wind at your enemy.
+  effect: None
+  effectNum: 0
+  artwork: {fileID: 21300000, guid: 9bbe1a74bfd3a49109afb3ea7ecd252f, type: 3}
+  animation: {fileID: 9100000, guid: 3e8f1ee5ae6823a4e8e29d469491d838, type: 2}
+  manaCost: 10
+  baseDamage: 0

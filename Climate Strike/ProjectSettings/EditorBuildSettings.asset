@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: 9cee745712eab433cb78db1f2170a511
+  - enabled: 1
+    path: Assets/_Scenes/MainTown.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Scenes/Combat.unity
+    guid: 0ec0d947ea7bb4f5a86bb2a225eea2de
+  - enabled: 1
+    path: Assets/_Scenes/InsideHouse1.unity
+    guid: c6b81506717b149a4921f74274d3d36e
+  - enabled: 1
+    path: Assets/_Scenes/InsideShop1.unity
+    guid: ffece98f829ea0a4cacef13f5ddea6e5
+  - enabled: 1
+    path: Assets/_Scenes/Towns/FireTown.unity
+    guid: b90dc0459709b47658e0c68b57c0b880
+  - enabled: 1
+    path: Assets/_Scenes/Towns/LandTown.unity
+    guid: 3051e0a3e8c0e4a5a97f619ff5868fe9
+  - enabled: 1
+    path: Assets/_Scenes/Towns/SeaTown.unity
+    guid: 9b96f34eec92b4a26bfd49aa0c43a4cd
+  - enabled: 1
+    path: Assets/_Scenes/Towns/SkyTown.unity
+    guid: d5a3c8e1cbd1147169cb1b13010c9ba4
+  m_configObjects: {}
